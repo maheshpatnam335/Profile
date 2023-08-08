@@ -1,0 +1,80 @@
+//Raja
+Middleware
+Types of Routings
+Types of Action Filters
+DI
+Oops
+Extentions Method
+Life time Services
+Web Api support formats
+.Net Framework and .Net core
+Cors
+Start up explain
+Authentication
+Status Codes
+Autherization
+readonly and constant
+Sealed
+post,put, etc.., Http Verbs
+Reference Type
+Value Types
+Dif between overiding and loading
+Dif bettwen string and stringBuilder
+dif between Array and ArrayList
+Dif detween HashTable and Dictoranry
+
+//Mahesh
+Sealed
+deff btw == and === in react
+web api return 
+inheritence and abraction
+joins
+triggers
+diff btw interface and abstraction
+how can you call API in reactJS?
+
+//Vijay
+overriding | over loading
+server side technologies
+client side technologies
+event looping - js
+sql joins
+hooks
+redux, reducer
+type casting
+application security token header
+Your role in project
+Latest html features 
+Abstract method and class with examples
+encapsulation 
+
+//vishnu
+Types of Routings
+Types of Action Filters
+Life time Services
+.Net Framework and .Net core
+Start up explain
+Authentication
+post,put, etc.., Http Verbs
+Autherization
+Dif between overiding and hiding
+diff btw interface and abstraction
+handle exceptions
+hooks
+Implicit and Explicit interface implementation
+What is the default loading in Entity Framework Core
+
+//Vamshi
+DI
+diff mvc and web api
+how to handle an error
+what is finally block
+hooks(usState, useMemo, callback, useContex)
+diff let and var
+how to pass data from parent component to child component and child to parent and two sibling componens
+Joins
+use of primary key
+index in sql
+what is unique and district
+get data of a table form newly added 10 records
+how react works
